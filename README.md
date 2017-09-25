@@ -1,2 +1,11 @@
 # Tarea-1
-Mis primeros pasos
+Mis primeros pasos en JavaScript al mostrar en la consola la oración "Hello World"
+
+Lenguage de programación:
+
+```[javascript]
+// JavaScript
+```
+
+**Raúl González Cruz**
+>Ingeniería en Sistemas Computacionales
